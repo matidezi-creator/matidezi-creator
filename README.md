@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/matidezi-creator/matidezi-creator/main/Banner.png" alt="banner de Matías Dezi Pfannl" width="100%">
+<img src="https://raw.githubusercontent.com/matidezi-creator/matidezi-creator/main/banner.png" alt="banner de Matías Dezi Pfannl" width="100%">
 
 ---
 
