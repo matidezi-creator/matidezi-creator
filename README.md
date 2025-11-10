@@ -37,7 +37,7 @@ buscando crecer profesionalmente y formar parte de un equipo donde pueda seguir 
 
 🔹 [**Portafolio Web**](https://portafolio-react-omega.vercel.app/) — Mi espacio creativo y carta de presentación.  
 🔹 [**Pizzería Vite + Tailwind**](https://pizzeria-basico-paz.vercel.app/) — Landing responsive con componentes reutilizables.  
-🔹 [**Cafetería Vite + Tailwind**] — Diseño moderno con animaciones suaves.  
+🔹 [**Cafetería Vite + Tailwind**] (https://cafe-lantic-nou.vercel.app/) — Diseño moderno con animaciones suaves.  
 🔹 [**Blog con WordPress**] — Práctica de CMS y personalización de temas.
 
 _(Podés ver más en mi portafolio 👉 [portafolio-react-omega.vercel.app](https://portafolio-react-omega.vercel.app/))_
