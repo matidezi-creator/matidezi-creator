@@ -36,7 +36,7 @@ buscando crecer profesionalmente y formar parte de un equipo donde pueda seguir 
 ### 🚀 Proyectos recientes
 
 🔹 [**Portafolio Web**](https://portafolio-react-omega.vercel.app/) — Mi espacio creativo y carta de presentación.  
-🔹 [**Pizzería React + Tailwind**] — Landing responsive con componentes reutilizables.  
+🔹 [**Pizzería Vite + Tailwind**](https://pizzeria-basico-paz.vercel.app/) — Landing responsive con componentes reutilizables.  
 🔹 [**Cafetería Vite + Tailwind**] — Diseño moderno con animaciones suaves.  
 🔹 [**Blog con WordPress**] — Práctica de CMS y personalización de temas.
 
