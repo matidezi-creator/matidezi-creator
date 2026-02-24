@@ -39,7 +39,7 @@ buscando crecer profesionalmente y formar parte de un equipo donde pueda seguir 
 🔹 [**Pizzería Vite + Tailwind**](https://pizzeria-basico-paz.vercel.app/) — Landing responsive con componentes reutilizables.  
 🔹 [**Cafetería Vite + React**](https://cafe-lantic-nou.vercel.app/) — Diseño moderno con animaciones suaves.  
 🔹 [**Trace App**](https://startup-trace.vercel.app/) — Landing page para presentar una app de productividad, creada con HTML, CSS y JavaScript.  
-🔹 [**CineVia**](https://matidezi-creator.github.io/plataformaflims/) — App de películas desarrollada con HTML, CSS y JavaScript.  
+🔹 [**CineVia**](https://matidezi-creator.github.io/plataformaflims/) — App de películas desarrollada con HTML, Sass y JavaScript.  
 🔹 **Blog con WordPress** — Práctica de CMS y personalización de temas.
 
 _(Podés ver más en mi portafolio 👉 [portafolio-react-omega.vercel.app](https://portafolio-react-omega.vercel.app/))_
