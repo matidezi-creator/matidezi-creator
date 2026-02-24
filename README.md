@@ -39,7 +39,9 @@ buscando crecer profesionalmente y formar parte de un equipo donde pueda seguir 
 🔹 [**Pizzería Vite + Tailwind**](https://pizzeria-basico-paz.vercel.app/) — Landing responsive con componentes reutilizables.  
 🔹 [**Cafetería Vite + React**](https://cafe-lantic-nou.vercel.app/) — Diseño moderno con animaciones suaves.  
 🔹 [**Trace App**](https://startup-trace.vercel.app/) — Landing page enfocada en la presentación de una app de productividad, creada con HTML, CSS y JavaScript.
+🔹 [**CineVia**](https://matidezi-creator.github.io/plataformaflims/) — App de peliculas, creada con HTML, CSS y JavaScript.
 🔹 [**Blog con WordPress**] — Práctica de CMS y personalización de temas.
+
 
 _(Podés ver más en mi portafolio 👉 [portafolio-react-omega.vercel.app](https://portafolio-react-omega.vercel.app/))_
 
@@ -48,7 +50,7 @@ _(Podés ver más en mi portafolio 👉 [portafolio-react-omega.vercel.app](http
 ### 📬 Contacto
 
 📧 [matiasdezi.dev@gmail.com](mailto:matiasdezi.dev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/matiasdezipfannl/)  
+💼 [LinkedIn](https://www.linkedin.com/in/matias-dezi-pfannl/)  
 🐙 [GitHub](https://github.com/matidezi-creator)
 
 ---
